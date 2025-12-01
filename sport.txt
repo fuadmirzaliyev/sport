@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ✨ SPOR",TRT SPOR HEVC
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=673373&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ✨ SPOR",TRT SPOR FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=351&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_spor.png" group-title="TR ✨ SPOR",TRT SPOR HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=352&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ✨ SPOR",A SPOR FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=355&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/a_spor.png" group-title="TR ✨ SPOR",A SPOR HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=356&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR//trtsporstar.png" group-title="TR ✨ SPOR",TRT SPOR YILDIZ FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=357&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trtsporstar.png" group-title="TR ✨ SPOR",TRT SPOR YILDIZ HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=358&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png" group-title="TR ✨ SPOR",HT SPOR FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=594415&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png" group-title="TR ✨ SPOR",HT SPOR HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=594416&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684467&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684468&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=369&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/sporsmart2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",SPOR SMART 2 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=370&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR.png" group-title="TR ✨ SPOR",TIVIBUSPOR FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=372&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR.png" group-title="TR ✨ SPOR",TIVIBUSPOR HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=371&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR2.png" group-title="TR ✨ SPOR",TIVIBUSPOR 1 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=374&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/TIVIBUSPOR2.png" group-title="TR ✨ SPOR",TIVIBUSPOR 1 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=373&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_3.png" group-title="TR ✨ SPOR",TIVIBUSPOR 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=376&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_3.png" group-title="TR ✨ SPOR",TIVIBUSPOR 2 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=375&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tivibu_spor_4.png" group-title="TR ✨ SPOR",TIVIBUSPOR 3 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=377&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/FB.TV.eno.png" group-title="TR ✨ SPOR",FB TV HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=437662&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/FB.TV.eno.png" group-title="TR ✨ SPOR",FB TV
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=388&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="TR ✨ SPOR",EUROSPORT 1 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=378&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="TR ✨ SPOR",EUROSPORT 1 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=379&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png" group-title="TR ✨ SPOR",EUROSPORT 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=380&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_2.png" group-title="TR ✨ SPOR",EUROSPORT 2 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=381&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/EKOL.SPORT.png" group-title="TR ✨ SPOR",EKOL SPORT FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=843892&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sports_tv.png" group-title="TR ✨ SPOR",SPORTS TV FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=382&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/sports_tv.png" group-title="TR ✨ SPOR",SPORTS TV HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=383&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NBA.png" group-title="TR ✨ SPOR",NBA TV FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=390&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/NBA.png" group-title="TR ✨ SPOR",NBA TV HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=391&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/trt_sopr3_tbmm.png" group-title="TR ✨ SPOR",TRT 3 SPOR (TBMM) FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=392&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/fightbox.png" group-title="TR ✨ SPOR",FIGHTBOX FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=393&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tay_tv.png" group-title="TR ✨ SPOR",TAY TV FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=394&extension=ts
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/TR/tjk_tv.png" group-title="TR ✨ SPOR",TJK TV HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=395&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 1 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684466&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 1 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684465&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684464&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/ssport2.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT 2 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684463&extension=ts
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/parsx/tr/s-sport-plus-tr.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 1
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684462&extension=ts
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/parsx/tr/s-sport-plus-tr.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 2
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684461&extension=ts
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/parsx/tr/s-sport-plus-tr.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 3
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684460&extension=ts
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/parsx/tr/s-sport-plus-tr.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 4
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684459&extension=ts
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/parsx/tr/s-sport-plus-tr.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 5
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684458&extension=ts
+#EXTINF:-1 tvg-logo="https://excpicon.cfd/parsx/tr/s-sport-plus-tr.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",S SPORT PLUS 6
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684457&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684456&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 1
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684455&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor1.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 2
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684454&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor3.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 3
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684453&extension=ts
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/tivibuspor4.png" group-title="TR ✨ S-SPORT⁕TIVIBU⁕SMART SPOR",TIVIBU SPOR 4
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=684452&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/v4JqN5c/1HEVC.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 1 Feed ʰᵉᵛᶜ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848340&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/D9C5qph/342343.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 1 Feed ᶠʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848341&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/3mHTJD8/1HD.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 1 Feed ʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848342&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/D9C5qph/342343.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 1 P+ ᶠʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848344&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/3mHTJD8/1HD.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 1 P+ ʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848345&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/6Pnsdmd/2FHD.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 2 P+ ᶠʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848346&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TYKnK8p/3FHD.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 3 P+ ᶠʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848351&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/LprtmgD/4FHD.png" group-title="TR ✨ BEIN SPORTS +",Bein Sport 4 P+ ᶠʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848352&extension=ts
+#EXTINF:-1 tvg-logo="https://i.iBB.co/gyHCjNn/5FHD.pnghttps://i.iBB.co/gyHCjNn/5FHD.pngnovo" group-title="TR ✨ BEIN SPORTS +",Bein Sport 5 P+ ᶠʰᵈ
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=848353&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LvfULSb.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS HABER HEVC
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552147&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UGbdQLv.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS HABER FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552146&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ym0q2jI.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS HABER HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552145&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5wmRzv.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS FEED
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552144&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NggaqQM.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 1 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552143&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jx2duXb.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 1 HEVC
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552142&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRD8mLI.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 1 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552141&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAGgh3S.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 1 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552140&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxiLYHN.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 1 4K
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552138&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oc4VGeB.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 1 MOBILE
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552139&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUXnhHX.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 2 HEVC
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552137&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KWZNVM0.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552136&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ie4xKg.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 2 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552135&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/24jyvwc.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 3 HEVC
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552134&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3HsTs7p.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 3 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552133&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3HsTs7p.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 3 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552132&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sxF6h0.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 4 HEVC
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552131&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FYbRa96.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 4 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552130&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIIlkX9.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 4 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552129&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E69v0C0.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 5 HEVC
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552127&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0lz7UhN.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS 5 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552128&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0g7rbD.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS MAX 1 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552126&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aZPxIfT.png" group-title="TR ✨ BEIN SPORTS",BEIN SPORTS MAX 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552125&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=660583&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=660584&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 1 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552122&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 1 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552121&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552120&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 2 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552119&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 3 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552118&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 3 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552117&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 4 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552116&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 4 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552115&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 5 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552114&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 5 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552113&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 6 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552112&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK8zTCf/tabii-logo-D1-B3-E86673-seeklogo-com.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TABII SPOR 6 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552111&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBVD9V.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN TV  FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552110&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MgDJ3iB.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN TV  HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552109&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 1 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552108&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 1 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552107&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 1 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552106&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/itpyNsB.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 1 SD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552105&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 2 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552104&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 2 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552103&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBPGjOu.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 2 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552091&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 3 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552102&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 3 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552101&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVBJBWU.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 3 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552090&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 4 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552100&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 4 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552099&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QiVp2Nz.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 4 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552089&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 5 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552098&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 5 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552097&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7sWctX.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 5 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552088&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 6 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552096&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 6 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552095&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6w6Yupp.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 6 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552087&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR  7 RAW
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552094&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 7 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552093&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sq54x3.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 7 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552086&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 8 FHD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552092&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVh6gnY.png" group-title="TR ✨ TABII ⁕ EXXEN SPOR",TR | EXXEN SPOR 8 HD
+http://p1.eu58.xyz:8080/play/live.php?mac=00:1A:79:08:E4:2A&stream=552085&extension=ts
